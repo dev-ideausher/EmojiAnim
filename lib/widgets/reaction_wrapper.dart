@@ -91,8 +91,8 @@ class _ReactionWrapperState extends State<ReactionWrapper>
                         alignment: Alignment.center,
                         child: Image.asset(
                           _emotion?.assetImage ?? '',
-                          height: 16,
-                          width: 16,
+                          height: 0,
+                          width: 0,
                         ),
                       ),
                     ),
