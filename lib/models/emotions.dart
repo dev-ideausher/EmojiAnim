@@ -9,6 +9,6 @@ enum Emotions {
 
 extension EmotionsX on Emotions {
   String get assetImage {
-    return 'packages/reaction_askany/icons/${name.toLowerCase()}.png';
+    return 'assets/icons/${name.toLowerCase()}.png';
   }
 }
