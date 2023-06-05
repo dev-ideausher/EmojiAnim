@@ -27,10 +27,10 @@ flutter:
     - packages/reaction_askany/icons/angry.png
     - packages/reaction_askany/icons/care.png
     - packages/reaction_askany/icons/haha.png
-    - packages/reaction_askany/icons/like.png
+    - packages/reaction_askany/icons/hundred.png
     - packages/reaction_askany/icons/love.png
     - packages/reaction_askany/icons/sad.png
-    - packages/reaction_askany/icons/wow.png
+    - packages/reaction_askany/icons/sad.png
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

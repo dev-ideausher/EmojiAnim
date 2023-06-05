@@ -1,10 +1,10 @@
 enum Emotions {
   like,
-  haha,
+  hundred,
   love,
-  wow,
+  haha,
+  sad,
   angry,
-  care,
 }
 
 extension EmotionsX on Emotions {
